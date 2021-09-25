@@ -1,0 +1,8 @@
+name: CatchAMob
+version: '${project.version}'
+main: com.cesarsp.catchamob.CatchAMob
+api-version: 1.17
+prefix: CatchAMob
+authors: [ CesarSP ]
+description: A plugin that allow you to catch mobs using eggs
+website: github.com/CesarSP99/CatchAMob
